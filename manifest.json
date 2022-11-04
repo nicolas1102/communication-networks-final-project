@@ -1,12 +1,12 @@
 {
-  "name": "Social Media Temporary Control",
+  "name": "Website Usage Manager",
   "description": "Take control of the time you use social media.",
   "version": "0.0.1",
   "manifest_version": 3,
   "author": "nicolasdiazv1102@gmail.com",
   "action": {
     "default_popup": "./popup.html",
-    "default_title": "Social Media Temporary Control",
+    "default_title": "Website Usage Manager",
     "default_icon": {
       "16": "images/icon-16.png",
       "32": "images/icon-32.png",

@@ -70,7 +70,7 @@ const blockedPageHTML = () => {
 };
 
 const blockedPageStyles = () => {
-    return `<title>Social Media Temporary Control</title>
+    return `<title>Website Usage Manager</title>
     <style>@import url(https://fonts.googleapis.com/css?family=opensans:500);
     body {
       background: #f16363;
