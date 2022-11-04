@@ -31,7 +31,7 @@ chrome.tabs.query({ active: true, currentWindow: true }, (tabs) => {
 
     if (aux) {
       // coloca una determinada descripcion del boton aseggun el estado de la url
-      document.getElementById("btn").textContent = "UNLOCK THIS URL";
+      document.getElementById("btn").textContent = "UNLOCK ALL URL'S";
     } else {
       // coloca una determinada descripcion del boton aseggun el estado de la url
       document.getElementById("btn").textContent = "BLOCK THIS URL";
