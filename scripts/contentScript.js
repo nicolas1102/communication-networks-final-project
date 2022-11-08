@@ -1,7 +1,7 @@
 var body = document.body.innerHTML;
 var head = document.head.innerHTML;
 
-// muestra una ventana empergente con el mensaje que se cerrara la ventana que es lo que posteriromente se hara enviando un mensaje al background
+// Muestra una ventana empergente con el mensaje que se cerrara la ventana que es lo que posteriromente se hara enviando un mensaje al background
 function CloseTab() {
     alert(
         "This URL is completely blocked for today. This tab will close after you press OK"
